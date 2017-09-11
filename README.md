@@ -23,3 +23,6 @@ Run the demo
 npm start
 ```
 
+自己的一些思考写在了[这里](https://github.com/aircloud/redux-saga-beginner/blob/master/README-private.md)
+
+
